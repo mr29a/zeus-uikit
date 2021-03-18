@@ -17,3 +17,6 @@ export { default as TicketIcon } from "./Ticket";
 export { default as TradeIcon } from "./Trade";
 export { default as TwitterIcon } from "./Twitter";
 export { default as HelmetIcon } from "./Helmet";
+export { default as IcebergIcon } from "./Iceberg";
+export { default as Titanic1Icon } from "./Titanic1";
+export { default as Titanic2Icon } from "./Titanic2";
