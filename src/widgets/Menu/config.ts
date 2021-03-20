@@ -72,18 +72,14 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/VikingSwapOfficial",
-      },
-      {
-        label: "Announcements",
-        href: "https://t.me/vikingswapannouncements",
+        href: "https://t.me/IcebergDeFi",
       },
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/vikingswap",
+    href: "https://twitter.com/IcebergFinance",
   },
 ];
 
