@@ -21,3 +21,4 @@ export { default as AuditIcon } from "./Audit";
 export { default as IcebergIcon } from "./Iceberg";
 export { default as Titanic1Icon } from "./Titanic1";
 export { default as Titanic2Icon } from "./Titanic2";
+export { default as IglooIcon } from "./Igloo";
