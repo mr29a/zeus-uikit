@@ -2207,6 +2207,10 @@ var socials = [
                 label: "English",
                 href: "https://t.me/IcebergDeFi",
             },
+            {
+                label: "Announcements",
+                href: "https://t.me/IcebergAnnouncement"
+            }
         ],
     },
     {
