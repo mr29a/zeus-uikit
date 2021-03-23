@@ -83,7 +83,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/IcebergFinance",
+    href: "https://twitter.com/iceberg_defi",
   },
 ];
 

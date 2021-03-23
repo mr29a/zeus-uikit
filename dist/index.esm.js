@@ -2217,7 +2217,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/IcebergFinance",
+        href: "https://twitter.com/iceberg_defi",
     },
 ];
 var MENU_HEIGHT = 64;
